@@ -9,7 +9,16 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Biomes",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "themetroidmod",
